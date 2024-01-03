@@ -78,22 +78,22 @@ dependencies {
     kapt("com.google.dagger:hilt-android-compiler:2.44")
 
     //loading button
-    implementation ("br.com.simplepass:loading-button-android:2.2.0")
+//    implementation ("br.com.simplepass:loading-button-android:2.2.0")
 
     //Glide
-    implementation ("com.github.bumptech.glide:glide:4.13.0")
+//    implementation ("com.github.bumptech.glide:glide:4.13.0")
 
     //circular image
-    implementation ("de.hdodenhof:circleimageview:3.1.0")
+//    implementation ("de.hdodenhof:circleimageview:3.1.0")
 
     //viewpager2 indicatior
-    implementation ("io.github.vejei.viewpagerindicator:viewpagerindicator:1.0.0-alpha.1")
+//    implementation ("io.github.vejei.viewpagerindicator:viewpagerindicator:1.0.0-alpha.1")
 
     //stepView
-    implementation ("com.shuhart.stepview:stepview:1.5.1")
+//    implementation ("com.shuhart.stepview:stepview:1.5.1")
 
     //Android Ktx
-    implementation ("androidx.navigation:navigation-fragment-ktx:2.4.2")
+//    implementation ("androidx.navigation:navigation-fragment-ktx:2.7.6")
 
     //Dagger hilt
 }
